@@ -1,0 +1,6 @@
+patent_number,citations,lawsuits,invalidation_rate,industry_growth,sale_price
+US9000001,42,3,0.75,6.2,120000
+US9000002,18,1,0.20,9.1,450000
+US9000003,75,5,0.90,3.4,80000
+US9000004,31,2,0.60,7.0,220000
+US9000005,59,0,0.10,8.5,380000
